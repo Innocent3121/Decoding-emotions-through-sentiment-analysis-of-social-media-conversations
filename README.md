@@ -4,7 +4,7 @@
 This project classifies tweets into Positive, Negative, or Neutral sentiments using the Sentiment140 dataset. It includes text preprocessing, feature engineering, machine learning model building, and a Flask-based web interface.
 
 ## Dataset
-- **Source**: [Sentiment140 on Kaggle](https://www.kaggle.com/datasets/jonathanoheix/sentiment140)
+- **Source**: [Kaggle - Sentiment140](https://www.kaggle.com/datasets/jonathanoheix/sentiment140)
 - **Records**: 1.6 million tweets
 - **Classes**: 0 (Negative), 2 (Neutral), 4 (Positive)
 
